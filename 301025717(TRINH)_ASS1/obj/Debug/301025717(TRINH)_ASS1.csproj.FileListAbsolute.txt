@@ -1,0 +1,12 @@
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\301025717(TRINH)_ASS1.csprojAssemblyReference.cache
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\_301025717_TRINH__ASS1.Properties.Resources.resources
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\301025717(TRINH)_ASS1.csproj.GenerateResource.cache
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\301025717(TRINH)_ASS1.csproj.CoreCompileInputs.cache
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\bin\Debug\301025717(TRINH)_ASS1.exe.config
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\bin\Debug\301025717(TRINH)_ASS1.exe
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\bin\Debug\301025717(TRINH)_ASS1.pdb
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\_301025717_TRINH__ASS1.NotificationManager.resources
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\_301025717_TRINH__ASS1.PublishNotification.resources
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\_301025717_TRINH__ASS1.SubcribeForm.resources
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\301025717(TRINH)_ASS1.exe
+D:\Software Engineering\Programming 3\Assignment\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\301025717(TRINH)_ASS1\obj\Debug\301025717(TRINH)_ASS1.pdb
